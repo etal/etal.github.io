@@ -6,15 +6,7 @@ description: "Bioinformatics & Genomics Consultant"
 
 <!-- Photo -->
 
-<!-- ENH: Buttons/Icons  -->
-
-* [GitHub](https://github.com/etal)
-* [LinkedIn](https://www.linkedin.com/in/etalevich/)
-* [Bluesky](https://bsky.app/profile/etalevich.bsky.social)
-* [Publications](https://scholar.google.com/citations?user=kYZERHwAAAAJ)
-
-<!-- email / contact form -->
-
+<!-- Email / contact form -->
 
 ## Introduction
 
@@ -40,6 +32,7 @@ detection -- whether you need end-to-end pipeline development, data infrastructu
 optimization, or technical leadership to accelerate your bioinformatics capabilities and
 innovation goals.
 
+<!-- List of specific services -->
+
 <!-- Testimonial(s), 1-2 -->
 
-<!-- Footer w/ copyright -->

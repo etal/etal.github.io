@@ -4,3 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Bio" # the name of your site, e.g. ACME Corp.
 description: "Bioinformatics consultant"
 theme: jekyll-theme-cayman
+github_url: https://github.com/etal
+linkedin_url: https://www.linkedin.com/in/etalevich/
+bluesky_url: https://bsky.app/profile/etalevich.bsky.social
+scholar_url: https://scholar.google.com/citations?user=kYZERHwAAAAJ
