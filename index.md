@@ -4,46 +4,20 @@ title: "Eric Talevich"
 description: "Bioinformatics & Genomics Consultant"
 ---
 
-<!-- Photo -->
+## About
 
-<!-- Email / contact form -->
+I'm a bioinformatics leader and independent consultant with over a decade of experience building genomic data platforms, validated clinical pipelines, and multi-omic analysis tools for biotech and precision medicine.
 
-## Introduction
+I currently serve as VP Multi-Omics Insights at DataXight, where I lead delivery of validated bioinformatics pipelines, multi-omic data products, and ML environments for pharma R&D and clinical genomics. Through my consultancy, Et al Bio, I work with organizations including Google, Stanford Medicine, BioCartis, and DNAnexus.
 
-I am a Ph.D. bioinformatician and experienced technical leader with a track record of
-success across biotech, diagnostics, and research environments.
-My career spans leadership roles at Caris Life Sciences, Form Bio, Karius, DNAnexus, and
-UCSF, where I've guided teams in developing validated clinical assays and scalable data
-infrastructure.
-As the creator of widely-adopted open-source tools like CNVkit and a significant
-contributor to Biopython, I combine deep scientific expertise with practical software
-engineering skills across the full spectrum of computational biology -- from design of
-experiment, to NGS analysis and variant intepretation, to data science and cloud
-architecture.
+Previously, I held leadership roles at Caris Life Sciences, Karius, DNAnexus, and UCSF, where I built and managed teams delivering CAP/CLIA validated assays, cloud-scale data infrastructure, and enterprise genomics products. I created CNVkit, a widely adopted copy number variant caller, and am a major contributor to Biopython.
 
-## What I do
+## Services
 
-I provide strategic guidance and implementation expertise in multi-omic data management,
-genome interpretation, and cloud technology strategy for precision medicine initiatives.
-I specialize in designing reproducible bioinformatics workflows, regulatory-compliant
-pipelines (CAP/CLIA/FDA), and scalable data architectures that transform complex
-biological datasets into actionable insights.
-I'll work with you to deliver tailored solutions for your organization -- whether you
-need scientific analysis, end-to-end pipeline development, data infrastructure
-optimization, or technical leadership to accelerate your bioinformatics capabilities and
-innovation goals.
-
-advancing cell and gene therapeutics, cancer diagnostics, synthetic biology, and
-infectious disease detection
-
-Experience and services in:
-
-- Bioinformatics algorithm development, pipelines, and data architecture
-- Biomarker discovery and population genetics
-- Cancer biology esp. melanoma, infectious diseases, autoimmune diseases, rare and hereditary diseases
-- Synthetic biology, cell and gene therapies, advanced therapeutics
-- Genomics, transcriptomics, proteomics, epigenetics, phylogenetics, protein structure, and systems biology
-- Technical strategy & solutions
-
-<!-- Testimonial(s), 1-2 -->
+- **Clinical bioinformatics** -- NGS pipeline development, analytical validation, CAP/CLIA/FDA regulatory strategy
+- **Multi-omic data platforms** -- Cloud architecture, data lakehouse design, workflow orchestration
+- **Genomic analysis** -- Variant interpretation, biomarker discovery, transcriptomics, single-cell, proteomics
+- **Synthetic biology & advanced therapeutics** -- AAV characterization, CRISPR edit validation, cell and gene therapy support
+- **AI/ML for life sciences** -- GPU-accelerated environments, structural biology, drug target validation
+- **Technical strategy** -- Team building, vendor evaluation, platform selection
 
