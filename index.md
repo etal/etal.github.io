@@ -8,7 +8,7 @@ description: "Bioinformatics & Genomics Consultant"
 
 I'm a bioinformatics leader and independent consultant with over a decade of experience building genomic data platforms, validated clinical pipelines, and multi-omic analysis tools for biotech and precision medicine.
 
-I currently serve as VP Multi-Omics Insights at DataXight, where I lead delivery of validated bioinformatics pipelines, multi-omic data products, and ML environments for pharma R&D and clinical genomics. Through my consultancy, Et al Bio, I work with organizations including Google, Stanford Medicine, BioCartis, and DNAnexus.
+I currently serve as VP Bioinformatics at DataXight, where I lead delivery of validated bioinformatics pipelines, multi-omic data products, and ML environments for pharma R&D and clinical genomics. Through my consultancy, Et al Bio, I work with organizations including Google, Stanford Medicine, BioCartis, and DNAnexus.
 
 Previously, I held leadership roles at Caris Life Sciences, Karius, DNAnexus, and UCSF, where I built and managed teams delivering CAP/CLIA validated assays, cloud-scale data infrastructure, and enterprise genomics products. I created CNVkit, a widely adopted copy number variant caller, and am a major contributor to Biopython.
 
