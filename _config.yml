@@ -8,3 +8,4 @@ github_url: https://github.com/etal
 linkedin_url: https://www.linkedin.com/in/etalevich/
 bluesky_url: https://bsky.app/profile/etalevich.bsky.social
 scholar_url: https://scholar.google.com/citations?user=kYZERHwAAAAJ
+exclude: [CLAUDE.md]
