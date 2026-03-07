@@ -7,4 +7,6 @@ theme: jekyll-theme-cayman
 github_url: https://github.com/etal
 linkedin_url: https://www.linkedin.com/in/etalevich/
 scholar_url: https://scholar.google.com/citations?user=kYZERHwAAAAJ
+plugins: [jekyll-feed]
+show_excerpts: true
 exclude: [CLAUDE.md]

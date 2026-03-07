@@ -31,6 +31,9 @@
       {% if site.scholar_url %}
         <a href="{{ site.scholar_url }}" class="btn">Publications</a>
       {% endif %}
+      {% if site.posts.size > 0 %}
+        <a href="{{ '/blog/' | relative_url }}" class="btn">Blog</a>
+      {% endif %}
 
     </header>
 

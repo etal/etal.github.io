@@ -21,3 +21,13 @@ Previously, I held leadership roles at Caris Life Sciences, Karius, DNAnexus, an
 - **AI/ML for life sciences** -- GPU-accelerated environments, structural biology, drug target validation
 - **Technical strategy** -- Team building, vendor evaluation, platform selection
 
+{% if site.posts.size > 0 %}
+## Recent Posts
+
+{% for post in site.posts limit:5 %}
+- **[{{ post.title }}]({{ post.url | relative_url }})** -- {{ post.date | date: "%B %-d, %Y" }}{% if post.description %}<br>{{ post.description }}{% endif %}
+{% endfor %}
+
+[See all posts &rarr;](/blog/)
+{% endif %}
+
