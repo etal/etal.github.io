@@ -19,6 +19,9 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <!-- button strip -->
+      {% if site.posts.size > 0 %}
+        <a href="{{ '/blog/' | relative_url }}" class="btn">Blog</a>
+      {% endif %}
       {% if site.github_url %}
         <a href="{{ site.github_url }}" class="btn">GitHub</a>
       {% endif %}
@@ -31,9 +34,6 @@
       {% if site.scholar_url %}
         <a href="{{ site.scholar_url }}" class="btn">Publications</a>
       {% endif %}
-      {% if site.posts.size > 0 %}
-        <a href="{{ '/blog/' | relative_url }}" class="btn">Blog</a>
-      {% endif %}
 
     </header>
 
@@ -41,7 +41,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        &#169 2025 Eric Talevich
+        &#169 2026 Eric Talevich
       </footer>
     </main>
   </body>
